@@ -2,7 +2,7 @@
 
 <h3>BackEnd Developer</h3>
 
-I'm a computer science student at 1337 | 42 Network, a tech enthusiast. Currently focusing on backend developement, taking the path to be a full stack developer.
+I'm a computer science student at 1337 | 42 Network, a tech enthusiast. Currently focusing on backend development, taking the path to be a full stack developer.
 
 - ✉️  You can contact me at [ybouddou@student.1337.ma](mailto:ybouddou@student.1337.ma)
 - 🔭  I’m currently a **Backend Developer**
