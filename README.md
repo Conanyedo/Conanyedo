@@ -9,6 +9,7 @@ I'm a computer science student at 1337 | 42 Network, a tech enthusiast. Currentl
 - 🧠  I'm learning **ReactJs / NextJs**
 - 🧐  Interested in **CyberSecurity**
 
+<a href="https://www.github.com/Conanyedo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Conanyedo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Connect with me
 
@@ -47,7 +48,7 @@ I'm a computer science student at 1337 | 42 Network, a tech enthusiast. Currentl
 <!--
 [![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=ybouddou)](https://github.com/mohouyizme/1337-readme)
 -->
-[![Ybouddou's 42 stats](https://badge.mediaplus.ma/darkblue/ybouddou)](https://github.com/oakoudad/badge42)
+[![Conanyedo's 42 stats](https://badge.mediaplus.ma/darkblue/ybouddou)](https://github.com/oakoudad/badge42)
 
 
 ### Github Stats
