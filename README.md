@@ -4,10 +4,12 @@
 
 I'm a computer science student at 1337 | 42 Network, a tech enthusiast. Currently focusing on backend development, taking the path to be a full stack developer.
 
+<img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - ✉️  You can contact me at [ybouddou@student.1337.ma](mailto:ybouddou@student.1337.ma)
-- 🔭  I’m currently a **Backend Developer**
-- 🧠  I'm learning **ReactJs / NextJs**
-- 🧐  Interested in **CyberSecurity**
+- 🔭  I’m currently a **Backend Developer** ***(entry level)***
+- 🧠  I'm learning more things **related to web development**
+- 🧐  Interested in **CyberSecurity** and **Web3**
 
 <a href="https://www.github.com/Conanyedo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Conanyedo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -21,6 +23,10 @@ I'm a computer science student at 1337 | 42 Network, a tech enthusiast. Currentl
 ### Languages and Tools
 
 <p align="left">
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,nodejs,express,nestjs,postgres,prisma,redis,docker,git,bash,linux)](https://skillicons.dev)
+
+<!--
 <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="36" height="36" alt="C" />
 <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="36" height="36" alt="C++" />
 
@@ -34,7 +40,7 @@ I'm a computer science student at 1337 | 42 Network, a tech enthusiast. Currentl
 <img src="https://github.com/get-icon/geticon/blob/master/icons/nestjs.svg" width="36" height="36" alt="NestJS" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="36" height="36" />
-<!--
+
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
