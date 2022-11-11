@@ -5,7 +5,7 @@
 I'm a computer science student at 1337 | 42 Network, a tech enthusiast. Currently focusing on backend development, taking the path to be a full stack developer.
 
 - ✉️  You can contact me at [ybouddou@student.1337.ma](mailto:ybouddou@student.1337.ma)
-- 🔭  I’m currently a **Backend Developer** ***(entry level)***
+- 🔭  I’m currently learning **ReactJs/NextJs**.
 - 🧠  I'm learning more things **related to web development**
 - 🧐  Interested in **CyberSecurity** and **Web3**
 
